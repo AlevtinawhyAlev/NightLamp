@@ -3,7 +3,7 @@
 ОПИСАНИЕ ПРОЕКТА:
 Ночник, разработанный на базе платы Arduino Nano. Имеет 8 режимов работы, мануальное (ручное) управление сменой эффектов. Работает от сети. 
 
-![ОПИСАНИЕ ПРОЕКТА:](https://github.com/AlevtinawhyAlev/NightLamp/blob/main/Pictures1/Final%20view.jpg)
+![ОПИСАНИЕ ПРОЕКТА:](https://github.com/AlevtinawhyAlev/NightLamp/blob/main/Pictures1/2023-10-05_14-52-56.png)
 
 НЕОБХОДИМЫЕ МАТЕРИАЛЫ:
 1. Распаячный короб 1 шт.
